@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 ,Futbol 1
+http://cdn1502.telerium.online:2052/free15/530/chunks.m3u8
+#EXTINF:-1 ,Futbol 2
+http://cdn1502.telerium.online:2052/free15/535/l_23995_52458439_5957.ts
+#EXTINF:-1 ,Futbol 3
+http://cdn1502.telerium.online:2052/free15/489/l_28303_14628258_2455.ts
+#EXTINF:-1 ,Futbol 4
+http://cdn1502.telerium.online:2052/free15/383/l_24088_28614438_5723.ts
+#EXTINF:-1 ,Futbol 5
+http://cdn1002.telerium.online:2052/free10/270/l_45112_52926890_6035.ts
